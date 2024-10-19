@@ -8,6 +8,6 @@
     - 🖥️ Ubuntu installed on Bare metal
     - 🐋 Docker for containers
     - 🖴 ORICO DAS for storage
-    -🥧 A few raspberry pi's (5 8Gb, zero 2W)
+    - 🥧 A few raspberry pi's (5 8Gb, zero 2W)
 
 
